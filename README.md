@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Sirtee59
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Sirtee59/Sirtee59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi, I am sirtee59
+I am interested in learning coding as a beginner and I am also looking forward to 
+collaborate on coding. Thanks!
